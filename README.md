@@ -1,8 +1,8 @@
 <div align="center">
 
-  **Telegram** 
+<h1>Telegram</h2>
 
-[<img src="">]()
+[<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" width="100px" >]()
 
 </div>
 
