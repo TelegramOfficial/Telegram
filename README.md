@@ -7,6 +7,7 @@
 </div>
 
 **Telegram is a messaging app with a focus on speed and security.**
+> Follow our [Tips Channel](https://t.me/TelegramTips) to learn more about Telegram features.
 
 Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users.
 
